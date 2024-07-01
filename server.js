@@ -1,1 +1,1 @@
-console.log("Server.js file Created!");
+console.log("server.js file Created!");
