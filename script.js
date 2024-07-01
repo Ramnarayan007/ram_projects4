@@ -1,1 +1,0 @@
-console.log("Created Script.js file")
